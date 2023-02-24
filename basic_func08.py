@@ -3,3 +3,8 @@
 # Create function arguments a.
 
 # Increase the value of a to one and return.
+def main(x):
+    return(x+1)
+b=main(3)
+
+print(b)
