@@ -4,6 +4,6 @@
 
 # Return the value a.
 def main(a):
-    return (str(a))
-x=main()
+    return a
+x=main("a")
 print(x)
