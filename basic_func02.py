@@ -2,6 +2,6 @@
 
 # Return the value "Hello World"
 def main():
-    return "Hello world"
+    return "Hello World"
 x=main()
 print (x)
