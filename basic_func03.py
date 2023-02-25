@@ -2,6 +2,6 @@
 
 # Return the value "codeschooluz"
 def main():
-    return "CODESCHOOLUZ"
+    return "codeschooluz"
 x=main()
 print(x)
